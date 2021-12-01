@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = fanny.rojon22@gmail.com
+	name = Fanny Rojon
